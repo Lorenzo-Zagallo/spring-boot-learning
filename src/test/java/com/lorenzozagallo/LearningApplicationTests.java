@@ -1,4 +1,4 @@
-package com.lorenzozagallo.learning;
+package com.lorenzozagallo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
